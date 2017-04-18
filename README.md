@@ -1,9 +1,14 @@
-# api documentation for  [angular-translate (v2.15.1)](https://github.com/angular-translate/angular-translate#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-angular-translate.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-angular-translate) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-angular-translate.svg)](https://travis-ci.org/npmdoc/node-npmdoc-angular-translate)
+# npmdoc-angular-translate
+
+#### api documentation for  [angular-translate (v2.15.1)](https://github.com/angular-translate/angular-translate#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-angular-translate.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-angular-translate) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-angular-translate.svg)](https://travis-ci.org/npmdoc/node-npmdoc-angular-translate)
+
 #### A translation module for AngularJS
 
-[![NPM](https://nodei.co/npm/angular-translate.png?downloads=true)](https://www.npmjs.com/package/angular-translate)
+[![NPM](https://nodei.co/npm/angular-translate.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/angular-translate)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-angular-translate/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-angular-translate_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-angular-translate/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-angular-translate/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-angular-translate/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-angular-translate/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-angular-translate/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-angular-translate/build/screenCapture.npmPackageListing.svg)
 
@@ -25,7 +30,6 @@
     "contributors": [
         {
             "name": "Jan Philipp",
-            "email": "knallisworld@googlemail.com",
             "url": "https://github.com/knalli"
         },
         {
@@ -109,13 +113,11 @@
     "main": "dist/angular-translate.js",
     "maintainers": [
         {
-            "name": "knalli",
-            "email": "knallisworld@googlemail.com"
+            "name": "knalli"
         }
     ],
     "name": "angular-translate",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+ssh://git@github.com/angular-translate/angular-translate.git"
@@ -141,16 +143,6 @@
     "version": "2.15.1"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module angular-translate](#apidoc.module.angular-translate)
-
-
-
-# <a name="apidoc.module.angular-translate"></a>[module angular-translate](#apidoc.module.angular-translate)
 
 
 
