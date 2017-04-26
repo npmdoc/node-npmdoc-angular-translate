@@ -1,6 +1,6 @@
 # npmdoc-angular-translate
 
-#### api documentation for  [angular-translate (v2.15.1)](https://github.com/angular-translate/angular-translate#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-angular-translate.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-angular-translate) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-angular-translate.svg)](https://travis-ci.org/npmdoc/node-npmdoc-angular-translate)
+#### basic api documentation for  [angular-translate (v2.15.1)](https://github.com/angular-translate/angular-translate#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-angular-translate.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-angular-translate) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-angular-translate.svg)](https://travis-ci.org/npmdoc/node-npmdoc-angular-translate)
 
 #### A translation module for AngularJS
 
@@ -140,7 +140,8 @@
         "test-scopes": "npm run-script -s check-env && grunt install-test && for f in test_scopes/*; do TEST_SCOPE=\"'basename $f'\" grunt test; done",
         "upload-github-release": "node build_tools/upload-github-release.js"
     },
-    "version": "2.15.1"
+    "version": "2.15.1",
+    "bin": {}
 }
 ```
 
